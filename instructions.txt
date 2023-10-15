@@ -1,0 +1,9 @@
+Tic-tac-toe is a simple game played on a 3x3 grid. Two players take turns, with one using "X" and the other using "O." The objective is to be the first player to create a line of three of their symbols in a row, either horizontally, vertically, or diagonally on the grid.
+
+Players start with an empty grid and take turns placing their symbol in one of the empty squares. The game begins with the first player, and they alternate turns throughout the match.
+
+To win, a player must form a line of three of their symbols. If they succeed in creating such a line, they immediately win the game, and the game is over.
+
+If all nine squares on the grid are filled, and no player has formed a winning line, the game ends in a draw or a tie.
+
+When the game is over, players can choose to start a new round by drawing a new grid and continuing to take turns.
